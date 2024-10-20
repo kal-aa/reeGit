@@ -1,1 +1,2 @@
-console.log('Goc');
+console.log('God');
+God.css
